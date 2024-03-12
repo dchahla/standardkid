@@ -7,9 +7,9 @@ import (
 	"strings"
 )
 
-// ExtractKidFromJWT extracts the kid (key ID) from a JWT (JSON Web Token)
+// Extracts the kid (key ID) from a JWT (JSON Web Token)
 func ExtractKidFromJWT(token string) (string, error) {
-    // Split the token into its parts (header, payload, signature)
+    // Split the token into its parts [](header, payload, signature)
     parts := strings.Split(token, ".")
     if len(parts) != 3 {
         return "", fmt.Errorf("invalid JWT format: must have three parts")
