@@ -3,6 +3,8 @@
 Cloud-native extract kid from JWT (using no dependencies) for multi-tenant gateways
 
 ### Example Usage
+https://go.dev/play/p/0w1lkY8VwhX
+
 
 ```go
 package main
