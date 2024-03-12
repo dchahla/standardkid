@@ -1,6 +1,6 @@
-## Standard kid
+## standard kid
 
-Cloud-native snippet to extract kid from JWT (using no dependencies) for multi-tenant API or BI 
+A cloud-native go snippet to extract kid from JWT (without the need for a full jwt library) for multi-tenant API or fallback instances.
 
 ### Example Usage
 [https://go.dev/play/p/-tBycmHbXC2](https://go.dev/play/p/-tBycmHbXC2)
