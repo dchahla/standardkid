@@ -1,6 +1,6 @@
 ## Standard kid
 
-Cloud-native extract kid from JWT (using no dependencies) for multi-tenant gateways
+Cloud-native snippet to extract kid from JWT (using no dependencies) for multi-tenant gateways
 
 ### Example Usage
 [https://go.dev/play/p/-tBycmHbXC2](https://go.dev/play/p/-tBycmHbXC2)
