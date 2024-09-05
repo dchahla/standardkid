@@ -3,7 +3,7 @@
 A cloud-native go snippet to extract kid from JWT (without the need for a full JWT library) useful for multi-tenant APIs or reverse proxies.
 
 ### Example Usage
-[https://go.dev/play/p/-tBycmHbXC2](https://go.dev/play/p/bisJE6UfOKb)
+[https://go.dev/play/p/-tBycmHbXC2](https://go.dev/play/p/jv-AwV08TLB)
 
 
 ```go
